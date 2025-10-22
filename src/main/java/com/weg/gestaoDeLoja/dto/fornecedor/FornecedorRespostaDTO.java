@@ -1,4 +1,4 @@
-package com.weg.gestaoDeLoja.dto.fornecedorCerto;
+package com.weg.gestaoDeLoja.dto.fornecedor;
 
 public record FornecedorRespostaDTO(
         Long id,

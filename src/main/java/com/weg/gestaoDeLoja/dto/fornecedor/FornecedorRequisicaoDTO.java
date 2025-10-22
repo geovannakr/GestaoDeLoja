@@ -1,4 +1,4 @@
-package com.weg.gestaoDeLoja.dto.fornecedorCerto;
+package com.weg.gestaoDeLoja.dto.fornecedor;
 
 import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.NotEmpty;
